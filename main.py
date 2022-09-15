@@ -1,6 +1,5 @@
 from operator import truediv
 
-
 print('Hello Git')
 
 def main():
@@ -11,3 +10,13 @@ if a:
   print('b')
   
 # Копия 
+
+print('Hello Git')
+
+def main():
+  pass
+
+a = True
+if a:
+  print('b')
+  
